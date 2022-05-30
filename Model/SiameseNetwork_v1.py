@@ -253,7 +253,7 @@ print(score)
 """## Test 2"""
 
 test_indices = [0, 1, 2, 3, 4]
-test_index = random.sample(range(10, 20), 1)[0]
+test_index = random.sample(range(20, 30), 1)[0]
 test_image = face_images[test_index]
 
 compare_images = []

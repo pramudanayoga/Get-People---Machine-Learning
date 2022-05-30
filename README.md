@@ -1,11 +1,13 @@
 # Get-People---Machine-Learning
+## Yoga
+1. Generate image pairs
+2. Buat fungsi untuk mengimport data dan mengekstrak
+3. Visualisasi yang diatas
 
-1. Generate image pairs (berat) ->                                                    Yoga
-2. Buat fungsi untuk mengimport data dan mengekstrak (easy) ->                        Yoga
-3. Visualisasi yang diatas (medium) ->                                                Yoga
-4. Embedding -> dibuat fungsi yang rapih mencakup kayak di fungsi alumni (berat) ->   Ariq
-5. Training dan visualisasi hasil training + save model (easy) ->                     Ariq
-6. Testing (medium) ->                                                                Ariq
+## Ariq
+1. Embedding -> dibuat fungsi yang rapih mencakup kayak di fungsi alumni
+2. Training dan visualisasi hasil training + save model
+3. Testing
 
 
 # How to Upload
